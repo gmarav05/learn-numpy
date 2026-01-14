@@ -1,5 +1,5 @@
 import numpy as np
 
-x = random.randint(100, size=(3, 5))
+arr = np.array([10, 20, 30])
 
-print(x)
+print(arr)
